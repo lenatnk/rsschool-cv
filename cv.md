@@ -7,3 +7,12 @@
 ## Summary
 
 A content manager with background in economics and basic web development skills. Looking for advancing my knowledge and become a front-end developer.
+
+### Skills
+
+|               |Languages               |
+| ------------- |:----------------------:|
+| HTML/CSS/JS   | English (fluent)       |
+| Git           | Russian (native)       |
+| Jira, Trello  | Spanish (intermediate) |
+| Scrum         |                        |

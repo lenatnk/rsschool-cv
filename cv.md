@@ -16,3 +16,17 @@ A content manager with background in economics and basic web development skills.
 | Git           | Russian (native)       |
 | Jira, Trello  | Spanish (intermediate) |
 | Scrum         |                        |
+
+### Courses
+
+* **Manual QA tester**, IT Switcher online course (02.2022 – 04.2022)
+* **Introduction to Web Development**, Code First Girl course (03.2024 – 05.2024)
+* **Automation QA tester**, IT Switcher online course (ongoing)
+
+### Education
+
+**2023 University of Valencia**, Master’s in Economics
+
+## Github
+
+[Github account](https://github.com/lenatnk)
